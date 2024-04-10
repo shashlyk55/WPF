@@ -1,0 +1,14 @@
+[
+  {
+    "CompanyLogo": "photo/pict3.jpg",
+    "JobTitle": "Software Engineer",
+    "Salary": 50000,
+    "DateAdded": "2024-04-05T17:37:06.1314125+03:00"
+  },
+  {
+    "CompanyLogo": "photo/pict5.jpg",
+    "JobTitle": "Web Developer",
+    "Salary": 75000,
+    "DateAdded": "2024-03-31T00:00:00"
+  }
+]

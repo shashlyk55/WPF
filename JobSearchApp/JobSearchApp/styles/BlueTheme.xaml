@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Colors for button -->
+    <SolidColorBrush x:Key="BackgroundColorBtn" Color="#3F51B5"/>
+    <SolidColorBrush x:Key="BorderColor" Color="#3F51B5"/>
+    
+    <SolidColorBrush x:Key="MouseEneterColor" Color="#2f9ad3"/>
+    <SolidColorBrush x:Key="MouseLeaveColor" Color="#3F51B5"/>
+    <SolidColorBrush x:Key="FontColor" Color="White"/>
+
+    <!-- Colors for textbox -->
+    <SolidColorBrush x:Key="IsFocusedColor" Color="LightBlue"/>
+    <SolidColorBrush x:Key="BackgroundColorTextbox" Color="White"/>
+    
+    <!-- Background Color -->
+    <SolidColorBrush x:Key="BackgroundColorWindow" Color="#bfd7ec"/>
+    
+    <!-- Animation Color-->
+    <Color x:Key="HoverColor">#2f9ad3</Color>
+    <Color x:Key="OutHoverColor">#3F51B5</Color>
+    
+</ResourceDictionary>
